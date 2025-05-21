@@ -1,3 +1,7 @@
-Testing/
-Training/
 venv/
+Data/Brain_Tumor/Testing
+Data/Brain_Tumor/Training
+Data/Fetus/train
+Data/Fetus/test
+Data/Liver/train
+Data/Liver/test
